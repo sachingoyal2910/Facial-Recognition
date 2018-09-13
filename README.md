@@ -1,0 +1,2 @@
+# Facial-Recognition
+Developed a facial recognition model by using Machine Learning which correctly tells the name of the person present in the database. K Nearest Neighbour is used for fnding the similarity between different faces already present in the database, by using Euclidean distance, thus predicting the person's name. OpenCV is used to capture live image from the webcam, write in data and finally display. Numpy is also used.
